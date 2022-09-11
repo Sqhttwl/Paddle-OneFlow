@@ -1,4 +1,6 @@
 # Paddle-OneFlow
+本仓库是针对一些优秀文章的链接以及摘要整理
+(摘要完全来自博主的朋友圈分享)
 https://mp.weixin.qq.com/s/O6s7x3WXRMEJHXACsAwzVw
 
 
